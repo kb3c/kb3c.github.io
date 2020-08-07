@@ -1,14 +1,9 @@
 ## kb3c.github.io
 
-### Affiliates
+Kind Holdings
+
+You are encouraged to visit one of our subsidiary divisions:
 
 - polarysekt
-- - [polarysektion](https://polarysekt.github.io/)
-- - [soundcloud](https://soundcloud.com/polarysekt)
+- - [polarysektion](https://polarysekt.github.io/(
 
-- Chakand Godfrey
-- - [soundcloud](https://soundcloud.com/chakand_godfrey)
-
-- Evan Lancaster (aka Evan Landcast)
-
-- LVDA
