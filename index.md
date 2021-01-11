@@ -5,5 +5,5 @@ Kind Holdings
 You are encouraged to visit one of our subsidiary divisions:
 
 - polarysekt
-- - [polarysektion](https://polarysekt.github.io/(
+- - [polarysektion](https://polarysekt.github.io/)
 
