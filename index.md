@@ -1,9 +1,11 @@
+
+# kb3c.Ux
+
 ## kb3c.github.io
 
-Kind Holdings
+### Constituents:
 
-You are encouraged to visit one of our subsidiary divisions:
+#### polarysekt
 
-- polarysekt
-- - [polarysektion](https://polarysekt.github.io/)
+* [polarysektion](https://polarysekt.github.io/) : main page for polarysekt
 
