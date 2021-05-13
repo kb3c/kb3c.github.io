@@ -1,3 +1,9 @@
+---
+layout: default
+title: home
+comments: false
+---
+
 
 # kb3c.Ux
 
