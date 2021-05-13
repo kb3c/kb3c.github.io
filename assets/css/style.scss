@@ -1,4 +1,30 @@
 ---
 ---
 
-@import "kb3cux-dark";
+// @import "kb3cux-dark";
+
+
+body {
+	background: black;
+	color:		#CCCCCC;
+	text-color:	#CCCCCC;
+}
+
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #EEEEEE;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:active {
+	color: #FFFFFF;
+}
+
