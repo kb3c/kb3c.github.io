@@ -1,0 +1,44 @@
+
+body {
+  background:   black;
+  color:	#CCCCCC;
+  text-color:	#CCCCCC;
+  font-family: serif;
+}
+
+h1 {
+  color: #EEEEEE;
+  text-color: #EEEEEE;
+  font-size: 18pt;
+  font-weight: bold;
+  font-family: sans;
+}
+
+h2 {
+  font-size: 14pt;
+  font-family: mono;
+}
+
+h3 {
+  font-size: 12pt;
+  font-weight: bold;
+}
+
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #EEEEEE;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:active {
+	color: #FF0000;
+}
+
