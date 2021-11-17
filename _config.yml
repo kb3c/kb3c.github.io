@@ -59,7 +59,7 @@ compress_html:
     envs: []
 
 
-The default permalink for articles
+#The default permalink for articles
 permalink: /articles/:title
 
 #collections_dir:
