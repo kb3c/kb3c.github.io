@@ -1,1 +1,24 @@
 gem "github-pages", group: :jekyll_plugins
+
+
+source "https://rubygems.org"
+
+gem "jekyll"
+
+group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-feed"
+  gem "jekyll-gist"
+  gem "jekyll-assets"
+  gem "kramdown-syntax-coderay"
+#  gem "jekyll-coderay"
+#  gem "jekyll-admin"
+end
+
+# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw]
+
+# Performance-booster for watching directories on Windows
+gem "wdm" if Gem.win_platform?
+
