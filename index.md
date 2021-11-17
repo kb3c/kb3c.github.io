@@ -1,6 +1,9 @@
 ---
 layout: page
 title: home
+subtitle: the landing zone
+description: start here
+tags: [home, landing, lz, start]
 comments: false
 ---
 
