@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: page
 title: home
 comments: false
 ---
 
 
-# kb3c.Ux
+# kb3c.uX
 
 ## kb3c.github.io
 
@@ -15,3 +15,8 @@ comments: false
 
 * [polarysektion](https://polarysekt.github.io/) : main page for polarysekt
 
+#### chakand godfrey
+
+#### lance van d'astre
+
+#### evan landcast
