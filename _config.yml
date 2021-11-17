@@ -48,3 +48,28 @@ compress_html:
   blanklines: false
   ignore:
     envs: []
+
+
+include:
+  - .htaccess
+exclude:
+  - .gitignore
+  - .directory
+  - .vscode
+  - package.json
+  - package-lock.json
+  - yarn.json
+  - build/
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - node_modules
+  - vendor
+  - _site
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE
+  - README
+  - Makefile
