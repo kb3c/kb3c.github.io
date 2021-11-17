@@ -2,6 +2,8 @@
 ### jekyll config for kb3c.github.io
 ### 2021, polarysekt
 
+theme: hacker
+
 title: kb3c.uX
 subtitle: collective holdings aggregation
 description: a minimal index of constituents
@@ -9,12 +11,19 @@ author: polarysekt
 baseurl: "/"
 url: ""
 
+owner:
+  email:           polarysekt@protonmail.com
+  github:          polarysekt
+  stackexchange:   4801256
+  youtube:         polarysekt
+  soundcloud:      polarysekt
+
+github_username:    polarysekt
 
 logo: assets/img/logo-grid-0.png
 
 timezone: America/Chicago
 future: false
-
 
 
 # Syntax Highlighting
