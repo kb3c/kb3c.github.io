@@ -1,37 +1,37 @@
 ---
 layout: page
-title: kb3c.ux :: home
-subtitle: landing zone
-description: start here
+title: Ui.kb3c.uX
+subtitle: kb3c.github.io
+description: start here, at the hub's cap
 tags: [home, landing, lz, start]
 comments: false
 ---
 
+![kb3c.uX](assets/img/kb3c-icefire.png "kb3c.uX")
+[kb3c.github.io](https://kb3c.github.io/)
 
-# kb3c.uX
 
-## kb3c.github.io
+## polarysekt ~po7a4~
+### [polarysektion](https://polarysekt.github.io/) : polarysektion m1
+### [polarysektion](https://polarysekt.gitlab.io/) : polarysektion m2
 
-* [kb3c.ux@youtube](https://youtube.com/kb3cux) : kb3c.uX video archive
 
-### Constituents:
+## music
+### [polarysekt@soundcloud](https://soundcloud.com/polarysekt/) : polarysekt tracked audio
+### [chakandgodfrey@soundcloud](https://soundcloud.com/chakand_godfrey/) : chakand godfrey arrangements
 
-#### polarysekt
+## livestreaming
+### [chakandgodfrey@twitch](https://twitch.tv/chakandgodfrey/) : chakand godfrey livestream gaming
 
-* [polarysektion](https://polarysekt.github.io/) : main page for polarysekt
-* [polarysekt@soundcloud](https://soundcloud.com/polarysekt/) : polarysekt tracked audio
-* [polarysekt@youtube](https://youtube.com/polarysekt/) : polarysekt video archives
-* polarysekt@stackoverflow : link coming soon 
+## dj
+### [lancevandastre@mixcloud](https://mixcloud.com/lancevandastre/) : lancevandastre live mixes
 
-#### chakand godfrey
+## video
+### [kb3c.uX@youtube](https://youtube.com/kb3cux) : kb3c.uX video archives
+### [polarysekt@youtube](https://youtube.com/polarysekt/) : polarysekt video archives
 
-* [chakandgodfrey@soundcloud](https://soundcloud.com/chakand_godfrey/) : chakand godfrey arrangements
-* [chakandgodfrey@twitch](https://twitch.tv/chakandgodfrey/) : chakand godfrey livestream gaming
 
-#### lance van d'astre
 
-* [lancevandastre@mixcloud](https://mixcloud.com/lancevandastre/) : lancevandastre live mixes
 
-#### evan landcast
 
-* coming soon
+
