@@ -1,22 +1,42 @@
-
 body {
-  background:   black;
-  color:	#CCCCCC;
-  text-color:	#CCCCCC;
+  background:   #000000;
+  color:	#aaaaaa;
+  text-color:	#aaaaaa;
   font-family: serif;
 }
+
+body:hover
+{
+	background: #003300;
+	color: #aaccaa;
+	text-color: #aaccaa;
+	transition-duration: 10000ms;
+}
+
+
+nav {
+	font-family:	sans-serif;	
+}
+
+main {
+	margin-left: 2em;
+	margin-right: 1em;
+}
+
+
 
 h1 {
   color: #EEEEEE;
   text-color: #EEEEEE;
   font-size: 18pt;
   font-weight: bold;
-  font-family: sans;
+  font-family: sans-serif;
+  shadow: 1px 1px 3px #cccc00;
 }
 
 h2 {
   font-size: 14pt;
-  font-family: mono;
+  font-family: monospace;
 }
 
 h3 {
