@@ -8,7 +8,7 @@ comments: false
 
 ## polaR interfaces
 
-#### http
+### http
 
 #### [polarysektion](https://polarysekt.github.io/) : polarysektion
 
@@ -16,18 +16,22 @@ comments: false
 
 
 ### audio
+
 #### [polarysekt@soundcloud](https://soundcloud.com/polarysekt/) : polarysekt tracked audio
+
+<!--  dj
+#### [lancevandastre@mixcloud](https://mixcloud.com/lancevandastre/) : lancevandastre live mixes -->
 
 <!-- // #### [chakandgodfrey@soundcloud](https://soundcloud.com/chakand_godfrey/) : chakand godfrey arrangements -->
 
 ### video
 
+#### [kb3c.uX@youtube](https://youtube.com/kb3cux) : kb3c.uX video archives
+#### [polarysekt@youtube](https://youtube.com/polarysekt/) : polarysekt video archives
+
 ### livestreaming
 #### [chakandgodfrey@twitch](https://twitch.tv/chakandgodfrey/) : chakand godfrey livestream gaming
 
-### dj
-#### [lancevandastre@mixcloud](https://mixcloud.com/lancevandastre/) : lancevandastre live mixes
 
-### video
-#### [kb3c.uX@youtube](https://youtube.com/kb3cux) : kb3c.uX video archives
-#### [polarysekt@youtube](https://youtube.com/polarysekt/) : polarysekt video archives
+
+

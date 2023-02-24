@@ -8,9 +8,9 @@ comments: false
 
 {{ page.motto }}
 
-[Latest NEWS]
+<!--[Latest NEWS]
 
-{{ site.news }}
+{{ site.news }}-->
 
 
 
