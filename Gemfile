@@ -1,6 +1,13 @@
 source "https://rubygems.org"
 
-gem "jekyll"
+## TODO: e
+gem "jekyll","4.3.1"
+
+group :kramdown_plugins do
+  gem "kramdown-parser-gfm"
+  gem "kramdown-syntax-coderay"
+end
+
 
 group :jekyll_plugins do
 #  gem "github-pages"
@@ -9,10 +16,12 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-gist"
   gem "jekyll-assets"
-  gem "kramdown-syntax-coderay"
 #  gem "jekyll-coderay"
 #  gem "jekyll-admin"
 end
+
+
+gem "faraday-retry"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw]

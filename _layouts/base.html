@@ -4,17 +4,13 @@ layout: compress
 
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
-     {% include head.html %}
+    {% include head.html %}
     <body>
-        <div class="bodycontain">
-            <!--
-            <img class="headerbehind" src="{{ page.banner }}" alt="usage patterns" />
-            -->
-            <main>
-                <a name="top"></a>
-
-                {{ content }}
-            </main>
+        <a name="top" class="hiddenElement"></a>
+        {{content}}
+        <div class="copyright">
+            Copyright &copy; 2023, kb3c.uX<br/>
+            All Rights Reserved.
         </div>
     </body>
 </html>
