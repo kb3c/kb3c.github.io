@@ -4,23 +4,14 @@
 
 ### theme: hacker
 
-title: kb3c.uX
-subtitle: collective holdings aggregation
-description: a minimal index of constituents
-author: polarysekt
-baseurl: "/"
-url: ""
-
-owner:
-  email:           polarysekt@protonmail.com
-  github:          polarysekt
-  stackexchange:   4801256
-  youtube:         polarysekt
-  soundcloud:      polarysekt
-
-github_username:    polarysekt
-
-logo: assets/img/logo-grid-0.png
+title:          "kb3c.uX WEB"
+subtitle:       "aggregated holdings"
+motto:          "for to make better all of the things!"
+logo:     "/assets/img/kb3cux-headerlogo-2022-softneon.png"
+backsplash: "/assets/img/2022-kb3c-backsplash.png"
+maintainer:     "polaR"
+baseurl:        "/"
+url:            ""
 
 timezone: America/Chicago
 future: false
@@ -60,23 +51,12 @@ compress_html:
 
 
 #The default permalink for articles
-permalink: /articles/:title
-
-#collections_dir:
+permalink: /news/:title
 
 collections:
-  characters:
-    output: true
-    permalink: /character/:name
-  reference:
-    output: true
-    permalink: /reference/:name
-  vendor:
-    output: true
-    permalink: /3rdparty/:name
-  pinned:
-    output: true
-    permalink: /articles/:collection/:name
+    members:
+        output: true
+        permalink: /members/:name
 
 # What to include/exclude from parsing
 include:
@@ -95,6 +75,7 @@ exclude:
   - node_modules
   - vendor
   - _site
+  - .vendor/
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/

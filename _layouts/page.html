@@ -1,6 +1,29 @@
 ---
 layout: base
 ---
-<section class="pageContent">
-    {{ content }}
-</section>
+<header>
+    <a class="flexstart" href="/"><img src="{{ site.logo }}" class="logo" alt="site.title"/></a>
+
+    <div class="siteTitlePanel">
+        <h1>{{ site.title }}</h1>
+        <h5 class="indented">{{ site.url }}</h5>
+        <nav class="menuSite">
+            {% include menu_site.html %}
+        </nav>
+    </div>
+    <h3 class="siteMotto">{{ site.motto }}</h3>
+    <div>
+
+
+    </div>
+</header>
+        <h1>{{ page.title }}</h1>
+        <main>
+            {{ content }}
+        </main>
+<footer>
+    <nav>
+        <a href="#top">top</a>
+    </nav>
+</footer>
+
